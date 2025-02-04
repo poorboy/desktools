@@ -47,18 +47,11 @@
 
 
 
-
-
-# 设置界面
-
-![set.png](./img/set.png)
-
-
-
+## 8.相关链接
 gitee: [https://gitee.com/zuzong/my-desk-toolsmyDeskTools/](https://gitee.com/zuzong/my-desk-toolsmyDeskTools/)  
 github: [https://github.com/poorboy/desktools/](https://github.com/poorboy/desktools/)
 
-其他的功能 目前正在慢慢加
 
+其他的功能 目前正在慢慢加 
 有好的建议，可以留言
 
