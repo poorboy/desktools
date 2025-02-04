@@ -55,6 +55,9 @@
 
 
 
+gitee: [https://gitee.com/zuzong/my-desk-toolsmyDeskTools/](https://gitee.com/zuzong/my-desk-toolsmyDeskTools/)  
+github: [https://github.com/poorboy/desktools/](https://github.com/poorboy/desktools/)
+
 其他的功能 目前正在慢慢加
 
 有好的建议，可以留言
