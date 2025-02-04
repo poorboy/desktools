@@ -1,5 +1,10 @@
 增加了 调用deepseek 和openai  API 相关功能  (测试功能)
 
+![ai2.png](./img/ai2.png)
+
+
+![ai3.png](./img/ai3.png)
+
 
 #### 介绍
 
